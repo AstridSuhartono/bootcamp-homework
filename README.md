@@ -1,2 +1,2 @@
 # bootcamp-homework1
-repository for first homework : Code Refractor
+repository for first homework : Code Refactor
